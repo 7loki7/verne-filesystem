@@ -48,7 +48,7 @@ Real Database Integration
 
 ## API Endpoints
 
-### Get Roor id
+### Get Root id
 
 
 ### Create a folder
@@ -58,7 +58,7 @@ Content-Type: application/json
 
 {
   "name": "Documents",
-  "parentId": <root-guid>      
+  "parentId": <parent-guid>      
 }
 ```
 
