@@ -1,0 +1,15 @@
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\bin\Debug\net8.0\Verne.FileSystem.Application.deps.json
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\bin\Debug\net8.0\Verne.FileSystem.Application.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\bin\Debug\net8.0\Verne.FileSystem.Application.pdb
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\bin\Debug\net8.0\Verne.FileSystem.Domain.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\bin\Debug\net8.0\Verne.FileSystem.Domain.pdb
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.csproj.AssemblyReference.cache
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.AssemblyInfoInputs.cache
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.AssemblyInfo.cs
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.Fi.F9D4DC1E.Up2Date
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\refint\Verne.FileSystem.Application.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.pdb
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\ref\Verne.FileSystem.Application.dll

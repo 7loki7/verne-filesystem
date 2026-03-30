@@ -1,0 +1,11 @@
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\bin\Debug\net8.0\Verne.FileSystem.Domain.deps.json
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\bin\Debug\net8.0\Verne.FileSystem.Domain.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\bin\Debug\net8.0\Verne.FileSystem.Domain.pdb
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.AssemblyInfo.cs
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\refint\Verne.FileSystem.Domain.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.pdb
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\ref\Verne.FileSystem.Domain.dll
