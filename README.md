@@ -49,7 +49,7 @@ Real Database Integration
 ## API Endpoints
 
 ### Get Root id
-
+GET /api/Nodes/root
 
 ### Create a folder
 ```
