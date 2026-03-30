@@ -1,13 +1,15 @@
 # Verne FileSystem API
 
 This is a Verne Recruitment Task exericse : a large-scale browser-based filesystem API.  
-Built with **.NET 8**, , and **EF Core InMemory**.
+Built with **.NET 8**, and **EF Core InMemory**.
 
 ---
 ## Key design decisions
 
 This solution is imagined like a real filesystem: one seeded root(C:\ equivalent), everything else lives inside it, and GetRootId is how the client bootstraps itself on first load to know where to start.
+
 Some implementation decisions were influenced by the limitations of the EF Core InMemory provider, for string comparisons and query behaviour.
+
 The code is written to remain simple for this exercise but it is structured similar as it would be in a real backend implementation. 
 
 ## Future Improvements
@@ -25,8 +27,6 @@ Validation and Constraints
 Docker Support
 
 Real Database Integration
-
-
 
 
 ## Prerequisites
