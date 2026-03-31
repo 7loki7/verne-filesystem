@@ -6,7 +6,7 @@ Built with **.NET 8**, and **EF Core InMemory**.
 ---
 ## Key design decisions
 
-This solution is imagined like a real filesystem: one seeded root(C:\ equivalent), everything else lives inside it, and GetRootId is how the client bootstraps itself on first load to know where to start.
+This solution is imagined like a real filesystem: one seeded root (C:\ equivalent in Windows file system), everything else lives inside it, and GetRootId is how the client bootstraps itself on first load to know where to start.
 
 Some implementation decisions were influenced by the limitations of the EF Core InMemory provider, for string comparisons and query behaviour.
 
@@ -49,7 +49,9 @@ Real Database Integration
 ## API Endpoints
 
 ### Get Root id
+```
 GET /api/Nodes/root
+```
 
 ### Create a folder
 ```
