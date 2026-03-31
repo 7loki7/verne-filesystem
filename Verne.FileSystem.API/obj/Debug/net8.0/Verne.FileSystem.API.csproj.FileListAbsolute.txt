@@ -38,3 +38,4 @@ C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Vern
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.API\obj\Debug\net8.0\Verne.FileSystem.API.pdb
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.API\obj\Debug\net8.0\Verne.FileSystem.API.genruntimeconfig.cache
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.API\obj\Debug\net8.0\ref\Verne.FileSystem.API.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.API\obj\Debug\net8.0\Verne.FileSystem.API.sourcelink.json

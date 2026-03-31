@@ -26,14 +26,14 @@ public class ExceptionHandlingMiddleware(RequestDelegate next, ILogger<Exception
     {
         var (statusCode, message) = exception switch
         {
-            NodeNotFoundException e              => (HttpStatusCode.NotFound,   e.Message),
-            DuplicateNodeNameException e         => (HttpStatusCode.Conflict,   e.Message),
-            InvalidOperationOnNodeException e    => (HttpStatusCode.BadRequest, e.Message),
-            _                                    => (HttpStatusCode.InternalServerError, "An unexpected error occurred.")
+            NodeNotFoundException e => (HttpStatusCode.NotFound, e.Message),
+            DuplicateNodeNameException e => (HttpStatusCode.Conflict, e.Message),
+            InvalidOperationOnNodeException e => (HttpStatusCode.BadRequest, e.Message),
+            _ => (HttpStatusCode.InternalServerError, "An unexpected error occurred.")
         };
 
         context.Response.ContentType = "application/json";
-        context.Response.StatusCode  = (int)statusCode;
+        context.Response.StatusCode = (int)statusCode;
 
         var body = JsonSerializer.Serialize(new { error = message });
         return context.Response.WriteAsync(body);

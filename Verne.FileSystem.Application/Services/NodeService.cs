@@ -112,7 +112,7 @@ public class NodeService(FileSystemDbContext db) : INodeService
     {
         var normalizedName = name.Trim().ToLower();
 
-        var exists = await _db.Nodes.AnyAsync( n => n.ParentId == parentId && n.Name.ToLower() == normalizedName, ct);
+        var exists = await _db.Nodes.AnyAsync(n => n.ParentId == parentId && n.Name.ToLower() == normalizedName, ct);
 
         if (exists) throw new DuplicateNodeNameException(name, parentId);
     }

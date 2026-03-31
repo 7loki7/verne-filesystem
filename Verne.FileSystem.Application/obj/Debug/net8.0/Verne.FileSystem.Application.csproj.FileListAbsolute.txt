@@ -13,3 +13,4 @@ C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Vern
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\refint\Verne.FileSystem.Application.dll
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.pdb
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\ref\Verne.FileSystem.Application.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Application\obj\Debug\net8.0\Verne.FileSystem.Application.sourcelink.json

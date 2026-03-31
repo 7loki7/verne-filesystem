@@ -9,3 +9,4 @@ C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Vern
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\refint\Verne.FileSystem.Domain.dll
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.pdb
 C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\ref\Verne.FileSystem.Domain.dll
+C:\Users\lovrop\Documents\Private\Filesys\Verne.FileSystem\Verne.FileSystem\Verne.FileSystem.Domain\obj\Debug\net8.0\Verne.FileSystem.Domain.sourcelink.json

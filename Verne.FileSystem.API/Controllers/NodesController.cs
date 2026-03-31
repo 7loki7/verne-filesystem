@@ -13,9 +13,9 @@ public class NodesController(INodeService nodeService) : ControllerBase
     [HttpGet("root")]
     [ProducesResponseType(typeof(Guid), StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
-    public IActionResult GetRootId( CancellationToken ct)
+    public IActionResult GetRootId(CancellationToken ct)
     {
-        var result =  _nodeService.GetRootId(ct);
+        var result = _nodeService.GetRootId(ct);
         return Ok(result);
     }
 
@@ -24,8 +24,7 @@ public class NodesController(INodeService nodeService) : ControllerBase
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status409Conflict)]
-    public async Task<IActionResult> CreateFolder(
-        [FromBody] CreateNodeRequest request, CancellationToken ct)
+    public async Task<IActionResult> CreateFolder([FromBody] CreateNodeRequest request, CancellationToken ct)
     {
         var result = await _nodeService.CreateFolderAsync(request, ct);
         return CreatedAtAction(nameof(GetChildren), new { parentId = result.Id }, result);
@@ -65,8 +64,8 @@ public class NodesController(INodeService nodeService) : ControllerBase
     [ProducesResponseType(typeof(IEnumerable<NodeResponse>), StatusCodes.Status200OK)]
     public async Task<IActionResult> Search(
         [FromQuery] string name,
-        [FromQuery] Guid?  parentId,
-        CancellationToken  ct)
+        [FromQuery] Guid? parentId,
+        CancellationToken ct)
     {
         if (string.IsNullOrWhiteSpace(name))
             return BadRequest("Query parameter 'name' is required.");
@@ -77,8 +76,7 @@ public class NodesController(INodeService nodeService) : ControllerBase
 
     [HttpGet("autocomplete")]
     [ProducesResponseType(typeof(IEnumerable<NodeResponse>), StatusCodes.Status200OK)]
-    public async Task<IActionResult> Autocomplete(
-        [FromQuery] string prefix, CancellationToken ct)
+    public async Task<IActionResult> Autocomplete([FromQuery] string prefix, CancellationToken ct)
     {
         if (string.IsNullOrWhiteSpace(prefix))
             return BadRequest("Query parameter 'prefix' is required.");
